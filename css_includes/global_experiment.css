@@ -1,44 +1,83 @@
-h1.yes-group, h1.no-group, h1.critical-box {
-  font-size: medium;
-  font-family: sans-serif;
+body {
+    margin: 75px;
 }
 
-span.object {
-  font-size: x-large;
+p, h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center
 }
 
-ul {
-  list-style: none;
-  padding-left: 0;
+h1 {
+    font-size: 30px;
 }
 
-li {
-  line-height: 2.5ex;
+h2 {
+    font-size: 20px;
 }
 
-div.vertical-box {
-  height: 180px;
-  width: 60px;
-  border-style: solid;
-  border-width: 1px;
-  text-align: center;
-  float: left;
-  margin-right: 10px;
+p {
+    font-size: 16px;
 }
 
-div.horizontal-box {
-  width: 180px;
-  border-style: solid;
-  border-width: 1px;
-  text-align: center;
+.box {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+    width: auto;
+    border: 1px solid black;
+    background-color: white;
+    padding: 20px;
+}
+    
+.box > .div1 { grid-area: 1 / 1 / 2 / 2; }
+.box > .div2 { grid-area: 1 / 2 / 2 / 3; }
+.box > .div3 { grid-area: 1 / 3 / 2 / 4; }
+.box > .div4 { grid-area: 1 / 4 / 2 / 5; }
+
+.box > .div1, .box > .div2, .box > .div3, .box > .div4, .question-box > .div1, .question-box > .div2, .question-box > .div3  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-div.horizontal-box li {
-  display: inline;
+.question-box {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    border: 1px solid black;
+    background-color: white;
+    padding: 20px;
 }
+    
+.question-box > .div1 { grid-area: 1 / 1 / 2 / 2; }
+.question-box > .div2 { grid-area: 1 / 2 / 2 / 3; }
+.question-box > .div3 { grid-area: 1 / 3 / 2 / 4; }
 
-div.clear-both {
-  clear: both;
-  padding-bottom: 15px;
+.grid-box {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
 }
+    
+.grid-box > .div1 { grid-area: 1 / 1 / 2 / 2; }
+.grid-box > .div2 { grid-area: 1 / 2 / 2 / 3; }
+.grid-box > .div3 { grid-area: 1 / 3 / 2 / 4; }
+.grid-box > .div4 { grid-area: 2 / 1 / 3 / 2; }
+.grid-box > .div5 { grid-area: 2 / 2 / 3 / 3; }
+.grid-box > .div6 { grid-area: 2 / 3 / 3 / 4; }
+.grid-box > .div7 { grid-area: 3 / 1 / 4 / 2; }
+.grid-box > .div8 { grid-area: 3 / 2 / 4 / 3; }
+.grid-box > .div9 { grid-area: 3 / 3 / 4 / 4; }
 
+.grid-box > .div1, .grid-box > .div2, .grid-box > .div3, .grid-box > .div4, .grid-box > .div5, .grid-box > .div6, .grid-box > .div7, .grid-box > .div8, .grid-box > .div9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0.5px solid black;
+    width: 50px;
+    height: 50px;
+}
