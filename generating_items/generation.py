@@ -91,8 +91,12 @@ def generate():
     practice = []
     posa1, posa2 = sample([0, 1, 2], 2)
     a1 = choice(forms[posa1])
+    yes, no, quest = get_practice(a1, posa1, 'yes')
+    cur = {'description': (a1, 'yes'), 'YES': yes, 'NO': no, '?': quest}
+    practice.append(cur)
     a2 = choice(forms[posa2])
-    practice.append(((a1, 'yes'), get_practice(a1, posa1, 'yes')))
+    yes, no, quest = get_practice(a2, posa2, 'no')
+    cur = {'description': (a2, 'no'), 'YES': yes, 'NO': no, '?': quest}
     practice.append(((a2, 'no'), get_practice(a2, posa2, 'no')))
     tests = []
     for posa, posb in [(0, 1), (0, 2), (1, 2)]:
@@ -100,6 +104,8 @@ def generate():
             for target in ['yes', 'no', 'target']:
                 a = choice(forms[posa])
                 b = choice(forms[posb])
-                tests.append(((a, b, strong, target), get_test(a, posa, b, posb, strong, target)))
+                yes, no, quest = get_test(a, posa, b, posb, strong, target)
+                cur = {'description': (a, b, strong, target), 'YES': yes, 'NO': no, '?': quest}
+                tests.append(cur)
     shuffle(tests)
     return practice + tests
