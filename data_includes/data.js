@@ -20,7 +20,7 @@ define_ibex_controller({
     properties: { }
 });
 
-var shuffleSequence = seq("consent", "practice", randomize("real"), "questionnaire");
+var shuffleSequence = seq("consent", "practice", randomize("real"));
 var showProgressBar = true;
 var completionMessage = "Результаты были успешно отправлены на сервер. Спасибо за участие!"
 // var centerItems = false;
