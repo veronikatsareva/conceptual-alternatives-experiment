@@ -2,13 +2,6 @@ body {
     margin: 75px;
 }
 
-text {
-    margin-left: 100px;
-    margin-right:100px;
-    margin-top: 50px;
-    text-align:justify";
-}
-
 p, h1, h2 {
     font-family: 'Times New Roman', Times, serif;
     text-align: center
