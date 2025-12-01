@@ -2,6 +2,13 @@ body {
     margin: 75px;
 }
 
+text {
+    margin-left: 100px;
+    margin-right:100px;
+    margin-top: 50px;
+    text-align:justify";
+}
+
 p, h1, h2 {
     font-family: 'Times New Roman', Times, serif;
     text-align: center
@@ -23,11 +30,11 @@ p {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: 1fr;
-    width: auto;
+    width: 100%;
     border: 1px solid black;
     background-color: white;
-    padding: 20px;
-    column-gap: 50px;
+    padding: 10px;
+    column-gap: 10px;
 }
     
 .box > .div1 { grid-area: 1 / 1 / 2 / 2; }
