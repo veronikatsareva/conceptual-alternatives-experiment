@@ -20,15 +20,17 @@ def group(a, posa, b, posb):
     :param posb: тип параметра от 0 до 2
     :returns: три списка. в первом оба параметра совпадают с целевыми, во втором ровно один, в третьем ни одного.
     """
-    both, one, none = [], [], []
+    both, left, right, none = [], [], [], []
     for c in coords:
         if c[posa] == a and c[posb] == b:
             both.append(c)
-        elif c[posa] == a or c[posb] == b:
-            one.append(c)
+        elif c[posa] == a:
+            left.append(c)
+        elif c[posb] == b:
+            right.append(c)
         else:
             none.append(c)
-    return both, one, none
+    return both, left, right, none
 
 
 def get_test(a, posa, b, posb, strong, target):
@@ -40,11 +42,12 @@ def get_test(a, posa, b, posb, strong, target):
     :param posb: тип параметра от 0 до 2
     :param strong: вторая операция из пары (and / xor)
     :param target: тип фигуры в вопросе (yes / no / target)
-    :returns: в первом списке 4 кортежа со значениями параметров типа YES, во втором типа NO. кортеж с параметрами вопроса.
+    :returns: три списка для трех блоков. в 1 и 2 по 4 кортежа со значениями параметров типа YES и NO. в 3 -- 1 с параметрами вопроса.
     """
-    both, one, none = group(a, posa, b, posb)
+    both, left, right, none = group(a, posa, b, posb)
     shuffle(both)
-    shuffle(one)
+    shuffle(left)
+    shuffle(right)
     shuffle(none)
     if strong == "and":
         yes = both[:4]
@@ -54,12 +57,13 @@ def get_test(a, posa, b, posb, strong, target):
         elif target == "no":
             quest = none[4]
         else:
-            quest = one[0]
+            quest = choice([left[0], right[0]])
     else:
-        yes = one[:4]
+        yes = left[:2] + right[:2]
+        shuffle(yes)
         no = none[:4]
         if target == "yes":
-            quest = one[4]
+            quest = choice([left[2], right[2]])
         elif target == "no":
             quest = none[4]
         else:
@@ -73,7 +77,7 @@ def get_practice(a, posa, target):
     :param a: значение параметра
     :param posa: тип параметра от 0 до 2
     :param target: тип фигуры в вопросе (yes / no)
-    :returns: в первом списке 4 кортежа со значениями параметров типа YES, во втором типа NO. кортеж с параметрами вопроса.
+    :returns: три списка для трех блоков. в 1 и 2 по 4 кортежа со значениями параметров типа YES и NO. в 3 -- 1 с параметрами вопроса.
     """
     true = [c for c in coords if c[posa] == a]
     false = [c for c in coords if c[posa] != a]
@@ -89,8 +93,7 @@ def get_practice(a, posa, target):
 def generate():
     """
     Функция для генерации всего.
-    :returns: список из 20 вопросов. в вопросе 2 кортежа: в первом описывается тест, во втором фигуры.
-        описание фигур -- в первом списке 4 кортежа со значениями параметров типа YES, во втором типа NO. кортеж с параметрами вопроса.
+    :returns: список из 20 вопросов в формате словаря. description -- кортеж с параметрами теста, YES, NO, ? -- список с фигурами.
     """
     practice = []
     posa1, posa2 = sample([0, 1, 2], 2)
@@ -116,7 +119,6 @@ def generate():
                     "?": quest,
                 }
                 tests.append(cur)
-    shuffle(tests)
     return practice + tests
 
 
@@ -235,12 +237,12 @@ for i in range(len(tests)):
         file_name = f"practice{i + 1}"
 
     with open(
-        f"/Users/veronikatsareva/Desktop/conceptual-alternatives-experiment/chunk_includes/{file_name}.html", "w"
+        f"chunk_includes/{file_name}.html", "w"
     ) as file:
         template, csv = make_html(tests[i])
         file.write(template)
         if i >= 2:
             metadata += f"{i - 1},{csv}\n"
 
-with open(f"/Users/veronikatsareva/Desktop/conceptual-alternatives-experiment/chunk_includes/metadata.csv", "w") as file:
+with open(f"chunk_includes/metadata.csv", "w") as file:
     file.write(metadata)
