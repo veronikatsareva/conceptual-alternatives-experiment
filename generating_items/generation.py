@@ -205,19 +205,20 @@ def make_html(test):
     template = "<html>\n"
     template += '<link rel="stylesheet" href="global_experiment.css">\n'
     template += "<body>\n"
+    template += '<p><u>Правило</u> для каждого задания свое. Вы должны придумать его самостоятельно, опираясь на иллюстрации ниже, а затем нажать кнопку с ответом.</p>\n'
 
     # YES-box
-    template += "<h2>Каждая из этих фигур удовлетворяет правилу.</h2>\n"
+    template += "<h2>Каждая из этих фигур соответствует правилу.</h2>\n"
     template += make_box(test["YES"])
-    template += "<br>"
+    template += "\n<br>\n"
 
     # NO-box
-    template += "<h2>Ни одна из этих фигур не удовлетворяет правилу.</h2>\n"
+    template += "<h2>Ни одна из этих фигур не соответствует правилу.</h2>\n"
     template += make_box(test["NO"])
-    template += "<br>"
+    template += "\n<br>\n"
 
     # TARGET-box
-    template += "<h2>Эта фигура удовлетворяет правилу?</h2>\n"
+    template += "<h2>Эта фигура соответствует правилу?</h2>\n"
     template += make_box(test["?"], question=True)
 
     template += "</body>\n"
