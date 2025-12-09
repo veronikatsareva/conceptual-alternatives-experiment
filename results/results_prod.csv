@@ -1,0 +1,1599 @@
+#
+# Results on Tue, 02 Dec 2025 11:20:54 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Form,1,0,consent,NULL,terms,yes
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Form,1,0,consent,NULL,_REACTION_TIME_,83615
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,7454
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,5929
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,18579
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,5612
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,70380
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,18,0,real,NULL,NULL,Соответствует правилу,NULL,7360
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,33212
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,193031
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,4169
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,4194
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,19328
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,3578
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,42361
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,16346
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,2812
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,4180
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,10347
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,10961
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,15,0,real,NULL,NULL,Не соответствует правилу,NULL,6962
+1764674454,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,18313
+#
+# Results on Tue, 02 Dec 2025 11:23:27 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764674607,122117a0a9e0c5960ba506166ef1e342,Form,1,0,consent,NULL,terms,yes
+1764674607,122117a0a9e0c5960ba506166ef1e342,Form,1,0,consent,NULL,_REACTION_TIME_,121730
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,2,0,practice,NULL,NULL,Не соответствует правилу,NULL,63348
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,27623
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,5573
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,76945
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,101974
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,7431
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,10667
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,14762
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,8866
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,34187
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,21598
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,3449
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,10478
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,2589
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,23310
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,5752
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,23924
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,15385
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,26104
+1764674607,122117a0a9e0c5960ba506166ef1e342,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,5695
+#
+# Results on Tue, 02 Dec 2025 11:24:44 GMT
+# USER AGENT: Mozilla/5.0 (Linux; Android 16; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.102 Mobile Safari/537.36
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764674684,68e640267429dd61d7afb431233d7998,Form,1,0,consent,NULL,terms,yes
+1764674684,68e640267429dd61d7afb431233d7998,Form,1,0,consent,NULL,_REACTION_TIME_,21724
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,23705
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,6714
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,10394
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,9979
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,5997
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,9,0,real,NULL,NULL,Не соответствует правилу,NULL,20656
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,14447
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,16468
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,6357
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,34326
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,5740
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,5774
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,8178
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,7719
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,7590
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,2809
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,22671
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,7882
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,15,0,real,NULL,NULL,Не соответствует правилу,NULL,7762
+1764674684,68e640267429dd61d7afb431233d7998,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,11209
+#
+# Results on Tue, 02 Dec 2025 11:28:59 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/22G86 Safari/604.1
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Form,1,0,consent,NULL,terms,yes
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Form,1,0,consent,NULL,_REACTION_TIME_,34640
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,28432
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,33755
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,18,0,real,NULL,NULL,Соответствует правилу,NULL,7366
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,92133
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,113835
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,14664
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,5522
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,65946
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,12436
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,7999
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,12936
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,12,0,real,NULL,NULL,Соответствует правилу,NULL,7770
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,14019
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,8042
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,5575
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,3188
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,3924
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,4590
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,7769
+1764674939,429cf4e301ff829ee610f5dbf6089be8,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,3507
+#
+# Results on Tue, 02 Dec 2025 11:29:36 GMT
+# USER AGENT: Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.106 Mobile Safari/537.36
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764674976,ed2e1519d893fd0ea3dba42395066050,Form,1,0,consent,NULL,terms,yes
+1764674976,ed2e1519d893fd0ea3dba42395066050,Form,1,0,consent,NULL,_REACTION_TIME_,7575
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,48184
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,19219
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,86035
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,61802
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,18791
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,56773
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,85370
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,22104
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,6614
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,10514
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,5318
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,8728
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,33874
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,24397
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,20623
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,10199
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,45266
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,47202
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,42125
+1764674976,ed2e1519d893fd0ea3dba42395066050,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,8719
+#
+# Results on Tue, 02 Dec 2025 11:29:40 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/21A340 Safari/604.1
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Form,1,0,consent,NULL,terms,yes
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Form,1,0,consent,NULL,_REACTION_TIME_,52967
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,27866
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,6845
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,5372
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,40495
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,6608
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,6464
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,6212
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,34353
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,9846
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,11158
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,38654
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,3275
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,8,0,real,NULL,NULL,Соответствует правилу,NULL,12729
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,17558
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,3977
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,5996
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,5102
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,10563
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,7730
+1764674980,0293b5b09bc6ad4d0b344a1026a1107a,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,10659
+#
+# Results on Tue, 02 Dec 2025 11:34:55 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Form,1,0,consent,NULL,terms,yes
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Form,1,0,consent,NULL,_REACTION_TIME_,163813
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,73075
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,24309
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,67814
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,50593
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,11312
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,49863
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,48427
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,37168
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,23529
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,13846
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,21095
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,8,0,real,NULL,NULL,Соответствует правилу,NULL,53778
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,41161
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,9961
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,55078
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,6313
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,17829
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,32927
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,23646
+1764675295,a31c43eb7dcd2e9da58a65624ad9ac6b,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,9948
+#
+# Results on Tue, 02 Dec 2025 11:44:27 GMT
+# USER AGENT: Mozilla/5.0 (Linux; Android 16; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.102 Mobile Safari/537.36
+# Design number was non-random = 9
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Form,1,0,consent,NULL,terms,yes
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Form,1,0,consent,NULL,_REACTION_TIME_,70066
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,14600
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,11438
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,39971
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,20147
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,12,0,real,NULL,NULL,Соответствует правилу,NULL,5971
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,28166
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,10961
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,5442
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,9705
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,8,0,real,NULL,NULL,Соответствует правилу,NULL,12525
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,2876
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,3276
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,10688
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,9668
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,11924
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,5014
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,17966
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,7222
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,2831
+1764675867,7075f98daebc0f1aac82e67ac65b5e35,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,3401
+#
+# Results on Tue, 02 Dec 2025 11:59:05 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 YaBrowser/25.10.0.0 Safari/537.36
+# Design number was non-random = 10
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Form,1,0,consent,NULL,terms,yes
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Form,1,0,consent,NULL,_REACTION_TIME_,79772
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,70065
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,3,0,practice,NULL,NULL,Соответствует правилу,NULL,28348
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,31973
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,11749
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,7086
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,20909
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,26397
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,19397
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,9,0,real,NULL,NULL,Не соответствует правилу,NULL,29901
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,8756
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,16997
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,16197
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,4893
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,26341
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,6733
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,22541
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,6,0,real,NULL,NULL,Соответствует правилу,NULL,13053
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,12772
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,17222
+1764676745,ac382c978d4a15cce2d5f7ac6052a613,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,8414
+#
+# Results on Tue, 02 Dec 2025 12:04:03 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+# Design number was non-random = 11
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Form,1,0,consent,NULL,terms,yes
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Form,1,0,consent,NULL,_REACTION_TIME_,20016
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,11100
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,4686
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,10573
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,4064
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,2171
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,5,0,real,NULL,NULL,Соответствует правилу,NULL,9157
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,46390
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,18,0,real,NULL,NULL,Соответствует правилу,NULL,3245
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,18005
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,57446
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,5550
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,16414
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,15701
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,8031
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,15,0,real,NULL,NULL,Не соответствует правилу,NULL,4222
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,3614
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,4494
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,1773
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,2782
+1764677043,1fa31aa5a39037c7c93f97806beef8a1,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,2774
+#
+# Results on Tue, 02 Dec 2025 12:40:44 GMT
+# USER AGENT: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.102 Mobile Safari/537.36
+# Design number was non-random = 12
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Form,1,0,consent,NULL,terms,yes
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Form,1,0,consent,NULL,_REACTION_TIME_,52673
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,18501
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,6683
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,73125
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,18,0,real,NULL,NULL,Соответствует правилу,NULL,3936
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,66798
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,59914
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,15589
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,5478
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,2526
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,12,0,real,NULL,NULL,Соответствует правилу,NULL,3213
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,2469
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,6,0,real,NULL,NULL,Соответствует правилу,NULL,2124
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,5743
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,5305
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,2823
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,2024
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,2623
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,4000
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,1804
+1764679244,b68a8d4b62ca915c48e03d109ca74a19,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,2740
+#
+# Results on Tue, 02 Dec 2025 13:17:58 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+# Design number was non-random = 13
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764681478,50b8467c9d44f10db52837e12ada30c5,Form,1,0,consent,NULL,terms,yes
+1764681478,50b8467c9d44f10db52837e12ada30c5,Form,1,0,consent,NULL,_REACTION_TIME_,41900
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,25320
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,14991
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,17174
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,10197
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,7845
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,98648
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,9755
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,26384
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,27353
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,12187
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,67849
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,10831
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,31878
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,35194
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,28576
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,9335
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,6821
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,31422
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,38410
+1764681478,50b8467c9d44f10db52837e12ada30c5,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,32070
+#
+# Results on Tue, 02 Dec 2025 13:23:31 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+# Design number was non-random = 13
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Form,1,0,consent,NULL,terms,yes
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Form,1,0,consent,NULL,_REACTION_TIME_,50039
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,9150
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,9244
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,32361
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,19111
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,36462
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,7820
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,5806
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,18993
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,5118
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,20791
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,9,0,real,NULL,NULL,Не соответствует правилу,NULL,86990
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,27211
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,30127
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,4154
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,16925
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,20227
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,13249
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,5223
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,4,0,real,NULL,NULL,Не соответствует правилу,NULL,5285
+1764681811,bb17951dadc49e6ffa137d80bc657ed5,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,8249
+#
+# Results on Tue, 02 Dec 2025 13:32:48 GMT
+# USER AGENT: Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.102 Mobile Safari/537.36
+# Design number was non-random = 15
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Form,1,0,consent,NULL,terms,yes
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Form,1,0,consent,NULL,_REACTION_TIME_,40640
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,10351
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,8457
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,3661
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,38433
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,3801
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,5505
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,7663
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,19468
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,12837
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,2960
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,1864
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,3987
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,7142
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,3290
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,27208
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,5938
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,8,0,real,NULL,NULL,Соответствует правилу,NULL,6415
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,12408
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,4041
+1764682368,4cfb62e0979ecfabab22fd2b6f5226dc,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,4572
+#
+# Results on Tue, 02 Dec 2025 16:00:41 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.7.1 Mobile/22H31 Safari/604.1
+# Design number was non-random = 16
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764691241,aeb467486aede9e7d228989954ad8196,Form,1,0,consent,NULL,terms,yes
+1764691241,aeb467486aede9e7d228989954ad8196,Form,1,0,consent,NULL,_REACTION_TIME_,107386
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,101835
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,40424
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,64364
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,15600
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,27484
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,11195
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,17854
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,33580
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,92025
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,55388
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,20491
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,16252
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,30084
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,49799
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,11,0,real,NULL,NULL,Соответствует правилу,NULL,15098
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,11426
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,28811
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,15,0,real,NULL,NULL,Не соответствует правилу,NULL,25851
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,17117
+1764691241,aeb467486aede9e7d228989954ad8196,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,6147
+#
+# Results on Tue, 02 Dec 2025 16:17:16 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+# Design number was non-random = 17
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764692236,533642f4619a46ff22fe4a226e777bec,Form,1,0,consent,NULL,terms,yes
+1764692236,533642f4619a46ff22fe4a226e777bec,Form,1,0,consent,NULL,_REACTION_TIME_,248593
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,10119
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,5518
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,6,0,real,NULL,NULL,Соответствует правилу,NULL,11341
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,57458
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,40517
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,19978
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,8752
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,19244
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,26636
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,33898
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,5419
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,18,0,real,NULL,NULL,Соответствует правилу,NULL,5931
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,4786
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,5718
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,26724
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,4831
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,5695
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,51807
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,3675
+1764692236,533642f4619a46ff22fe4a226e777bec,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,46342
+#
+# Results on Tue, 02 Dec 2025 17:12:47 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 YaBrowser/25.10.0.0 Safari/537.36
+# Design number was non-random = 18
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764695567,75620c107f45df65665b9b938f963fb5,Form,1,0,consent,NULL,terms,yes
+1764695567,75620c107f45df65665b9b938f963fb5,Form,1,0,consent,NULL,_REACTION_TIME_,61432
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,7983
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,31700
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,4975
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,23985
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,7826
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,7101
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,10151
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,6800
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,8572
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,4348
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,4201
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,7953
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,10950
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,6629
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,12746
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,9,0,real,NULL,NULL,Не соответствует правилу,NULL,6537
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,3665
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,2609
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,2397
+1764695567,75620c107f45df65665b9b938f963fb5,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,8620
+#
+# Results on Tue, 02 Dec 2025 17:28:53 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+# Design number was non-random = 18
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764696533,f07c6a94b8891af34d542f5128bc568c,Form,1,0,consent,NULL,terms,yes
+1764696533,f07c6a94b8891af34d542f5128bc568c,Form,1,0,consent,NULL,_REACTION_TIME_,100197
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,187801
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,49648
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,135760
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,182160
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,443446
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,14325
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,43410
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,15640
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,17,0,real,NULL,NULL,Соответствует правилу,NULL,17896
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,15,0,real,NULL,NULL,Не соответствует правилу,NULL,196297
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,77032
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,20,0,real,NULL,NULL,Соответствует правилу,NULL,41905
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,35627
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,31715
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,22108
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,7251
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,5863
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,32685
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,24767
+1764696533,f07c6a94b8891af34d542f5128bc568c,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,44945
+#
+# Results on Tue, 02 Dec 2025 17:38:37 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+# Design number was non-random = 19
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764697117,61d21add27c5c322a17a2d025807df58,Form,1,0,consent,NULL,terms,yes
+1764697117,61d21add27c5c322a17a2d025807df58,Form,1,0,consent,NULL,_REACTION_TIME_,70374
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,21797
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,8837
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,250651
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,120328
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,59868
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,11286
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,13240
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,10190
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,9453
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,47876
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,21107
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,90475
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,28354
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,16108
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,8788
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,9487
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,16626
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,6210
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,7153
+1764697117,61d21add27c5c322a17a2d025807df58,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,18052
+#
+# Results on Tue, 02 Dec 2025 18:14:30 GMT
+# USER AGENT: Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.102 Mobile Safari/537.36
+# Design number was non-random = 21
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764699270,35af874ec231588a84e86f800f3c274e,Form,1,0,consent,NULL,terms,yes
+1764699270,35af874ec231588a84e86f800f3c274e,Form,1,0,consent,NULL,_REACTION_TIME_,34481
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,7967
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,3496
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,8036
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,6628
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,5966
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,49422
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,58064
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,105072
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,37369
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,4722
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,7854
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,27607
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,4333
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,9021
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,2984
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,6591
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,7003
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,12839
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,2635
+1764699270,35af874ec231588a84e86f800f3c274e,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,13662
+#
+# Results on Tue, 02 Dec 2025 19:35:35 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+# Design number was non-random = 22
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764704135,a321d1b481033d3609c7b834bb254f27,Form,1,0,consent,NULL,terms,yes
+1764704135,a321d1b481033d3609c7b834bb254f27,Form,1,0,consent,NULL,_REACTION_TIME_,8649
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,108963
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,14416
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,22289
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,688500
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,23076
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,6011
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,9,0,real,NULL,NULL,Не соответствует правилу,NULL,74362
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,6346
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,109459
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,33880
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,8596
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,5109
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,7147
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,19712
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,6196
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,31509
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,5068
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,6293
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,38329
+1764704135,a321d1b481033d3609c7b834bb254f27,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,6413
+#
+# Results on Tue, 02 Dec 2025 20:15:54 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+# Design number was non-random = 23
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Form,1,0,consent,NULL,terms,yes
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Form,1,0,consent,NULL,_REACTION_TIME_,239691
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,12142
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,33443
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,7965
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,17563
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,18,0,real,NULL,NULL,Соответствует правилу,NULL,5704
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,6,0,real,NULL,NULL,Соответствует правилу,NULL,4754
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,3062
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,13080
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,20,0,real,NULL,NULL,Соответствует правилу,NULL,40414
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,4344
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,2031
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,2575
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,8,0,real,NULL,NULL,Соответствует правилу,NULL,12550
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,9,0,real,NULL,NULL,Не соответствует правилу,NULL,6312
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,2058
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,10997
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,1871
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,1808
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,1551
+1764706554,3bb8a7dd7045f65787ef67f4d8bf60d8,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,2513
+#
+# Results on Wed, 03 Dec 2025 17:04:43 GMT
+# USER AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+# Design number was non-random = 24
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Form,1,0,consent,NULL,terms,yes
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Form,1,0,consent,NULL,_REACTION_TIME_,36167
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,30276
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,6415
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,5002
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,80020
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,7211
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,8691
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,45748
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,15995
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,8523
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,5873
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,6275
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,9,0,real,NULL,NULL,Не соответствует правилу,NULL,28715
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,5572
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,5429
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,15,0,real,NULL,NULL,Не соответствует правилу,NULL,7502
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,20012
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,6443
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,5563
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,4779
+1764781483,39aaf0bf38ce8a770c8a756ad83fa033,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,7563
+#
+# Results on Sat, 06 Dec 2025 11:01:05 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+# Design number was non-random = 25
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765018865,07620387330ffea59a1e758d76a4713d,Form,1,0,consent,NULL,terms,yes
+1765018865,07620387330ffea59a1e758d76a4713d,Form,1,0,consent,NULL,_REACTION_TIME_,5233
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,12370
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,3626
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,15679
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,7415
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,31751
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,5856
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,5829
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,7124
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,2664
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,2335
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,6815
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,4977
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,3122
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,2280
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,4406
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,5223
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,2293
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,18,0,real,NULL,NULL,Соответствует правилу,NULL,2468
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,4228
+1765018865,07620387330ffea59a1e758d76a4713d,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,3506
+#
+# Results on Sat, 06 Dec 2025 11:03:25 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/22B83 Safari/604.1
+# Design number was non-random = 25
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765019005,969012c5df589b7d0e3124e64bd1862a,Form,1,0,consent,NULL,terms,yes
+1765019005,969012c5df589b7d0e3124e64bd1862a,Form,1,0,consent,NULL,_REACTION_TIME_,47442
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,2,0,practice,NULL,NULL,Не соответствует правилу,NULL,24611
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,7999
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,9737
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,5016
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,28313
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,4188
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,2659
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,11062
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,12417
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,24878
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,10025
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,14818
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,5,0,real,NULL,NULL,Соответствует правилу,NULL,4870
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,10291
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,6389
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,6695
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,8295
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,15694
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,4079
+1765019005,969012c5df589b7d0e3124e64bd1862a,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,2853
+#
+# Results on Sat, 06 Dec 2025 11:04:10 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+# Design number was non-random = 25
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Form,1,0,consent,NULL,terms,yes
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Form,1,0,consent,NULL,_REACTION_TIME_,67964
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,31975
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,16278
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,5053
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,9,0,real,NULL,NULL,Не соответствует правилу,NULL,47661
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,9510
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,4246
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,12680
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,3982
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,4686
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,5158
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,16792
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,5223
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,8119
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,3366
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,3686
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,32490
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,3806
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,11343
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,12639
+1765019050,2f49d5e849a0b6fe90614ca8da7600e3,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,16640
+#
+# Results on Sat, 06 Dec 2025 11:11:55 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15
+# Design number was non-random = 25
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765019515,f8b7a396beddab742108eb364ddff5ee,Form,1,0,consent,NULL,terms,yes
+1765019515,f8b7a396beddab742108eb364ddff5ee,Form,1,0,consent,NULL,_REACTION_TIME_,39611
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,73571
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,32122
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,18,0,real,NULL,NULL,Соответствует правилу,NULL,9006
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,15066
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,95395
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,64713
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,81359
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,39916
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,73338
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,6,0,real,NULL,NULL,Соответствует правилу,NULL,28589
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,4677
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,25806
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,139842
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,9703
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,6471
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,7050
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,18787
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,10897
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,6329
+1765019515,f8b7a396beddab742108eb364ddff5ee,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,17613
+#
+# Results on Sat, 06 Dec 2025 11:20:52 GMT
+# USER AGENT: Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Safari/537.36
+# Design number was non-random = 29
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Form,1,0,consent,NULL,terms,yes
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Form,1,0,consent,NULL,_REACTION_TIME_,5928
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,9721
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,4682
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,25838
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,5919
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,9234
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,4404
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,5241
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,4018
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,2670
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,5336
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,4487
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,1853
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,2511
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,2559
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,2387
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,2651
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,18,0,real,NULL,NULL,Соответствует правилу,NULL,2513
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,2528
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,2077
+1765020052,c66b14fdeaa92932933520b8e1a6f2e3,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,4294
+#
+# Results on Sat, 06 Dec 2025 11:26:25 GMT
+# USER AGENT: Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.171 Mobile Safari/537.36
+# Design number was non-random = 29
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Form,1,0,consent,NULL,terms,yes
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Form,1,0,consent,NULL,_REACTION_TIME_,80617
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,22695
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,6936
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,89281
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,57367
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,77053
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,6,0,real,NULL,NULL,Соответствует правилу,NULL,6079
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,3581
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,8239
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,3700
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,42814
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,22627
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,9516
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,14896
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,25950
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,3548
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,10467
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,7286
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,8157
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,5164
+1765020385,0a2d0ee0e27baf9dadc777e7b3ffb82e,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,5640
+#
+# Results on Sat, 06 Dec 2025 11:26:39 GMT
+# USER AGENT: Mozilla/5.0 (Linux; Android 10; JNY-LX1; HMSCore 6.15.4.322) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 HuaweiBrowser/16.0.6.300 Mobile Safari/537.36
+# Design number was non-random = 30
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Form,1,0,consent,NULL,terms,yes
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Form,1,0,consent,NULL,_REACTION_TIME_,47853
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,13570
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,11219
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,32767
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,4673
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,7022
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,39776
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,52707
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,5689
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,5177
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,12188
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,13320
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,13361
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,3787
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,2815
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,19887
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,3566
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,28038
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,3517
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,7606
+1765020399,8d6d2821cc2f8fd48dfb8b742214bec3,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,3810
+#
+# Results on Sat, 06 Dec 2025 11:28:49 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+# Design number was non-random = 28
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Form,1,0,consent,NULL,terms,yes
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Form,1,0,consent,NULL,_REACTION_TIME_,77493
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,2,0,practice,NULL,NULL,Не соответствует правилу,NULL,1078565
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,66853
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,5,0,real,NULL,NULL,Соответствует правилу,NULL,28982
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,4,0,real,NULL,NULL,Не соответствует правилу,NULL,35286
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,6,0,real,NULL,NULL,Соответствует правилу,NULL,16399
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,11,0,real,NULL,NULL,Соответствует правилу,NULL,8589
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,11279
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,6437
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,5550
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,10070
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,7454
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,12326
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,15,0,real,NULL,NULL,Не соответствует правилу,NULL,3334
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,18,0,real,NULL,NULL,Соответствует правилу,NULL,3110
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,17,0,real,NULL,NULL,Соответствует правилу,NULL,2358
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,4526
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,12,0,real,NULL,NULL,Соответствует правилу,NULL,6254
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,2502
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,4150
+1765020529,2d022f7686c9a102c92bbad09139e7c1,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,7062
+#
+# Results on Sat, 06 Dec 2025 11:29:32 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 YaBrowser/25.10.0.0 Safari/537.36
+# Design number was non-random = 30
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765020572,c938ea1811f1d6501b07d32578d715ee,Form,1,0,consent,NULL,terms,yes
+1765020572,c938ea1811f1d6501b07d32578d715ee,Form,1,0,consent,NULL,_REACTION_TIME_,24267
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,6767
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,5988
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,5813
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,20,0,real,NULL,NULL,Соответствует правилу,NULL,25463
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,22541
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,15717
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,6896
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,4467
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,5221
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,13963
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,10860
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,5273
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,6962
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,16344
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,327
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,15,0,real,NULL,NULL,Не соответствует правилу,NULL,9649
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,3448
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,8370
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,7960
+1765020572,c938ea1811f1d6501b07d32578d715ee,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,10206
+#
+# Results on Sat, 06 Dec 2025 11:50:15 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+# Design number was non-random = 34
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Form,1,0,consent,NULL,terms,yes
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Form,1,0,consent,NULL,_REACTION_TIME_,330725
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,18622
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,8811
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,18846
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,8,0,real,NULL,NULL,Соответствует правилу,NULL,6627
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,26552
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,11759
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,4594
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,8904
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,8271
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,18,0,real,NULL,NULL,Соответствует правилу,NULL,8020
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,4895
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,10210
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,5019
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,9774
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,6069
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,4285
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,8533
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,5826
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,4046
+1765021815,fb6ebc247b0da646e6414eb9cce73a12,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,6389
+#
+# Results on Sat, 06 Dec 2025 11:54:12 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+# Design number was non-random = 32
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Form,1,0,consent,NULL,terms,yes
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Form,1,0,consent,NULL,_REACTION_TIME_,126219
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,23394
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,9123
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,19987
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,546325
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,11657
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,14580
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,5873
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,14292
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,19270
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,194452
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,5292
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,4501
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,14021
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,69943
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,5461
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,18,0,real,NULL,NULL,Соответствует правилу,NULL,13452
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,423494
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,7000
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,2188
+1765022052,f6c95e468cf3c521274c717e97ac30e8,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,3193
+#
+# Results on Sat, 06 Dec 2025 11:58:07 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+# Design number was non-random = 32
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Form,1,0,consent,NULL,terms,yes
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Form,1,0,consent,NULL,_REACTION_TIME_,1615349
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,29041
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,8296
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,4,0,real,NULL,NULL,Не соответствует правилу,NULL,8693
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,6447
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,6362
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,17614
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,6844
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,9,0,real,NULL,NULL,Не соответствует правилу,NULL,5695
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,6619
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,11597
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,4480
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,12,0,real,NULL,NULL,Соответствует правилу,NULL,6663
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,4814
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,4660
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,5997
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,5744
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,5983
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,8,0,real,NULL,NULL,Соответствует правилу,NULL,4644
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,5928
+1765022287,876df3f34ef38d31b4be8da8d9a5d45a,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,24922
+#
+# Results on Sat, 06 Dec 2025 12:01:05 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6.2 Mobile/22G100 Safari/604.1
+# Design number was non-random = 37
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Form,1,0,consent,NULL,terms,yes
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Form,1,0,consent,NULL,_REACTION_TIME_,7115
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,11440
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,1199
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,918
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,855
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,751
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,671
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,11,0,real,NULL,NULL,Соответствует правилу,NULL,637
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,17,0,real,NULL,NULL,Соответствует правилу,NULL,640
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,754
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,4,0,real,NULL,NULL,Не соответствует правилу,NULL,690
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,12,0,real,NULL,NULL,Соответствует правилу,NULL,606
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,691
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,656
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,9,0,real,NULL,NULL,Не соответствует правилу,NULL,587
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,5,0,real,NULL,NULL,Соответствует правилу,NULL,642
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,571
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,7,0,real,NULL,NULL,Соответствует правилу,NULL,607
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,623
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,8,0,real,NULL,NULL,Соответствует правилу,NULL,539
+1765022465,e50852d1792cc2e4f080a1f46b9a2256,Boxes,15,0,real,NULL,NULL,Не соответствует правилу,NULL,558
+#
+# Results on Sat, 06 Dec 2025 12:47:19 GMT
+# USER AGENT: Mozilla/5.0 (Linux; Android 11; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.171 Mobile Safari/537.36
+# Design number was non-random = 38
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765025239,7cd2a0e08671a19806a7be1916cef131,Form,1,0,consent,NULL,terms,yes
+1765025239,7cd2a0e08671a19806a7be1916cef131,Form,1,0,consent,NULL,_REACTION_TIME_,6668
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,18920
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,4908
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,4650
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,95795
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,2994
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,2598
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,2908
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,8,0,real,NULL,NULL,Не соответствует правилу,NULL,37641
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,3348
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,4746
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,2644
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,8906
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,14,0,real,NULL,NULL,Соответствует правилу,NULL,5442
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,5391
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,4637
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,6784
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,9908
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,2229
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,5204
+1765025239,7cd2a0e08671a19806a7be1916cef131,Boxes,9,0,real,NULL,NULL,Соответствует правилу,NULL,9638
+#
+# Results on Sat, 06 Dec 2025 14:19:28 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 YaBrowser/25.10.0.0 Safari/537.36
+# Design number was non-random = 39
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Form,1,0,consent,NULL,terms,yes
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Form,1,0,consent,NULL,_REACTION_TIME_,11877
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,9718
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,10240
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,9,0,real,NULL,NULL,Не соответствует правилу,NULL,46736
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,20,0,real,NULL,NULL,Соответствует правилу,NULL,32531
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,8556
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,35695
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,15,0,real,NULL,NULL,Соответствует правилу,NULL,31608
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,10890
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,2997
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,5585
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,8081
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,37754
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,3534
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,19,0,real,NULL,NULL,Не соответствует правилу,NULL,18691
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,13,0,real,NULL,NULL,Не соответствует правилу,NULL,8449
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,8,0,real,NULL,NULL,Соответствует правилу,NULL,20336
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,21,0,real,NULL,NULL,Не соответствует правилу,NULL,18428
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,4447
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,5115
+1765030768,fa7bdc430e8bac9a793d0b316d95abee,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,6612
+#
+# Results on Sun, 07 Dec 2025 11:49:42 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+# Design number was non-random = 40
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. Field name.
+# 9. Field value.
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Form,1,0,consent,NULL,terms,yes
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Form,1,0,consent,NULL,_REACTION_TIME_,47635
+# 8. Question (NULL if none)..
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer..
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,2,0,practice,NULL,NULL,Соответствует правилу,NULL,27039
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,3,0,practice,NULL,NULL,Не соответствует правилу,NULL,10488
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,16,0,real,NULL,NULL,Соответствует правилу,NULL,7239
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,9,0,real,NULL,NULL,Не соответствует правилу,NULL,118118
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,19,0,real,NULL,NULL,Соответствует правилу,NULL,19437
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,15,0,real,NULL,NULL,Не соответствует правилу,NULL,81336
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,21,0,real,NULL,NULL,Соответствует правилу,NULL,103008
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,10,0,real,NULL,NULL,Соответствует правилу,NULL,6990
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,11,0,real,NULL,NULL,Не соответствует правилу,NULL,5875
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,20,0,real,NULL,NULL,Не соответствует правилу,NULL,60840
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,14,0,real,NULL,NULL,Не соответствует правилу,NULL,65763
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,5,0,real,NULL,NULL,Не соответствует правилу,NULL,11251
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,4,0,real,NULL,NULL,Соответствует правилу,NULL,6593
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,7,0,real,NULL,NULL,Не соответствует правилу,NULL,28669
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,12,0,real,NULL,NULL,Не соответствует правилу,NULL,4990
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,17,0,real,NULL,NULL,Не соответствует правилу,NULL,4491
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,13,0,real,NULL,NULL,Соответствует правилу,NULL,38881
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,18,0,real,NULL,NULL,Не соответствует правилу,NULL,5058
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,8,0,real,NULL,NULL,Соответствует правилу,NULL,32748
+1765108182,9b1dc8b5e5fa6f966a625cad3551552f,Boxes,6,0,real,NULL,NULL,Не соответствует правилу,NULL,8409
